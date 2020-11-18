@@ -1,5 +1,5 @@
 {
-  "name": "conf_manager",
+  "name": "jsonconfmanager",
   "version": "1.0.0",
   "description": "Configuration manager",
   "main": "build/main.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dfeprado/confmanager.git"
+    "url": "git+https://github.com/dfeprado/jsonconfmanager.git"
   },
   "author": "Daniel Prado",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dfeprado/confmanager/issues"
+    "url": "https://github.com/dfeprado/jsonconfmanager/issues"
   },
-  "homepage": "https://github.com/dfeprado/confmanager#readme",
+  "homepage": "https://github.com/dfeprado/jsonconfmanager#readme",
   "devDependencies": {
     "@types/node": "^14.14.8",
     "tsc": "^1.20150623.0"
